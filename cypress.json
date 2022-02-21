@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://yemeksepeti.com",
+    "watchForFileChanges": false,
+    "testFiles": "**/*.{feature, features}",
+    "ignoreTestFiles": ["**/stepDefinitions/*", "*.js", "*.md"],
+    "pluginsFile": "cypress/plugins/index.js",
+    "screenshotOnRunFailure": true,
+    "screenshotsFolder": "cypress/screenshots",
+    "projectId": "8wukb9"
+}
