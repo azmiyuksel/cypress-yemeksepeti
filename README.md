@@ -10,8 +10,12 @@ To run tests on browser, run:
 To run tests on headless browser, run:
 `npx cypress run`
 
+To get HTML report of your results, run:
+`node .\cucumber-html-report.js`
+
 You can specify browser with --browser command:
 `npx cypress run --browser=edge`
 
 You can run tests in your ci environment parallel with following command:
 `cypress run --record --key=8wukb9 --parallel`
+
