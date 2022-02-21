@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/azmiyuksel/cyress-yemeksepeti.git"
+        "url": "git+https://github.com/azmiyuksel/cypress-yemeksepeti.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/azmiyuksel/cyress-yemeksepeti/issues"
+        "url": "https://github.com/azmiyuksel/cypress-yemeksepeti/issues"
     },
-    "homepage": "https://github.com/azmiyuksel/cyress-yemeksepeti#readme",
+    "homepage": "https://github.com/azmiyuksel/cypress-yemeksepeti#readme",
     "devDependencies": {
         "cypress": "^9.4.1",
         "multiple-cucumber-html-reporter": "^1.19.0"
